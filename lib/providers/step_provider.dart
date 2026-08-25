@@ -154,8 +154,8 @@ class StepProvider with ChangeNotifier {
         return const Color(0xFFFF007F);
       case 'Blue':
         return const Color(0xFF007BFF);
-      case 'Green':
-        return const Color(0xFF2ECC71);
+      case 'Teal':
+        return const Color(0xFF1FADA6);
       case 'Orange':
         return const Color(0xFFE67E22);
       default:
