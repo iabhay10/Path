@@ -221,7 +221,7 @@ class _SettingsPageState extends State<SettingsPage> {
                       _buildAccentCircle('Lime', const Color(0xFFC7F900), stepProvider),
                       _buildAccentCircle('Pink', const Color(0xFFFF007F), stepProvider),
                       _buildAccentCircle('Blue', const Color(0xFF007BFF), stepProvider),
-                      _buildAccentCircle('Green', const Color(0xFF2ECC71), stepProvider),
+                      _buildAccentCircle('Teal', const Color(0xFF1FADA6), stepProvider),
                       _buildAccentCircle('Orange', const Color(0xFFE67E22), stepProvider),
                     ],
                   ),
